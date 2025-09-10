@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This page is meant for you to showcase your case study, podcasts, and blog posts reflecting on our readings. You will need to update the content in each section and submit your site to Moodle (see calendar). Once all sections are updated, revise this paragraph so it summarizes the purpose of your site for new visitors. This can include how to navigate it, what each section contains, and what someone should understand about your work just by reading this introduction.
+Welcome to my site, where I share my academic and professional journey at the intersection of finance, technology, and ethics. Here you’ll find my case studies, which showcase applied projects and research, alongside podcasts and blog posts that reflect on key readings and ideas I’ve explored. Each section highlights how I connect theory with practice, whether through analyzing markets, building quantitative models, or considering the broader ethical implications of technology in finance. By navigating through the site, you’ll gain a clear picture of my interests, the skills I’m developing, and the questions I’m most passionate about investigating.
 
 
 About Me
