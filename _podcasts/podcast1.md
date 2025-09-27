@@ -1,5 +1,5 @@
 ---
-title: "Podcast 1"
+title: "Etiquette Ep.1"
 collection: podcasts
 permalink: /podcasts/podcast1
 excerpt: "Etiquette Ep.1"
